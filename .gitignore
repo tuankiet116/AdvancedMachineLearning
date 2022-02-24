@@ -1,4 +1,11 @@
 FaceRegconition_Siamese/data
+FaceRegconition_Siamese/application_data/input_image
+FaceRegconition_Siamese/application_data/verification_images
+FaceRegconition_Siamese/training_checkpoints
 
 FaceRegconition_FaceNet/YALE
 FaceRegconition_FaceNet/YALE.tar.gz
+
+src/application_data/input_image
+src/application_data/verification_images
+src/__pycache__
